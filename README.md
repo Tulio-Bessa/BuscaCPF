@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido por mim e pelo colega **Tulio Bessa** como parte do trabalho avaliativo da disciplina de **Estrutura de Dados I**. O objetivo principal foi criar uma aplicação interativa para gerenciar dados de funcionários utilizando um servidor web com **Flask** e um sistema de armazenamento em **JSON**. 
+Este projeto foi desenvolvido por mim e pelo colega **Adryan Santos** como parte do trabalho avaliativo da disciplina de **Estrutura de Dados I**. O objetivo principal foi criar uma aplicação interativa para gerenciar dados de funcionários utilizando um servidor web com **Flask** e um sistema de armazenamento em **JSON**. 
 
 A aplicação permite buscar e cadastrar funcionários por meio do **CPF**, utilizando **Flask** no back-end e uma interface simples no front-end.
 
